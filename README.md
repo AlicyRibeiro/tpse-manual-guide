@@ -4,6 +4,8 @@ Como aprender a navegar em Datasheets e TRMs na prática
 Guia prático para estudantes de Sistemas Embarcados aprenderem a encontrar informações em manuais técnicos (datasheets e Technical Reference Manuals — TRM) e transformá-las em configurações reais de hardware em nível bare-metal.
 
 Este repositório foca no que normalmente não é ensinado de forma explícita:
+
+
 👉 o processo mental para investigar o manual e descobrir como configurar um periférico.
 
 ---
