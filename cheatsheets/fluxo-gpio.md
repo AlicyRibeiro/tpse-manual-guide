@@ -34,3 +34,21 @@ Sequência de configuração
 CÓDIGO
 
 ```
+---
+
+# Leitura rápida do fluxo
+
+1. Defina o objetivo
+2. Ache o periférico
+3. Vá ao capítulo no TRM
+4. Pegue endereço base
+5. Identifique registradores
+6. Configure bits
+7. Implemente
+
+
+---
+
+# Ideia principal
+
+👉 Sempre pense em investigação no manual antes do código.
