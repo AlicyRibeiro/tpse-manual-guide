@@ -57,16 +57,14 @@ tpse-manual-guide/
 
 ---
 
-# Como usar este guia
+# Como usar este repositório
 
-Existem duas formas de aproveitar o material:
-
-Caminho recomendado (aprendizado completo)
-
-1. Leia o método → `03-metodo-de-busca.md`
-2. Veja o exemplo guiado → `exemplos-praticos/gpio.md`
-3. Analise o exemplo real
-4. Use os cheatsheets como revisão
+1. Encontre o periférico ou registrador que você precisa
+2. Abra o exemplo correspondente em `/examples`
+3. Veja:
+   - Onde a informação foi encontrada no manual
+   - Como interpretar os bits
+   - Como aplicar no código
 
 ---
 
