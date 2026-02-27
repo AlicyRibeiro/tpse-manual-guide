@@ -128,7 +128,6 @@ Passos no manual:
 
 # Erros comuns
 
-- ❌ Ler o manual em ordem
 - ❌ Não identificar o periférico correto
 - ❌ Ignorar o memory map
 - ❌ Não verificar se o clock está habilitado
